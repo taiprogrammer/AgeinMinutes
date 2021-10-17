@@ -2,4 +2,11 @@
     <string name="app_name">Age in Minutes</string>
     <string name="title_calculate">CALCULATE YOUR</string>
     <string name="title_age">Age</string>
+    <string name="title_toolbar">AGE TO MINUTES CALCULATOR</string>
+    <string name="title_minutes">IN MINUTES</string>
+    <string name="title_button">Select Date</string>
+    <string name="result_date">1/2/2000</string>
+    <string name="title_selected_date">Selected Date</string>
+    <string name="title_result_minutes">0000</string>
+    <string name="title_minutes_till_date">In minutes till date</string>
 </resources>
