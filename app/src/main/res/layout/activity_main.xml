@@ -108,6 +108,7 @@
         app:layout_constraintTop_toBottomOf="@+id/title_selected_date" />
 
     <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/hint_minutes"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
